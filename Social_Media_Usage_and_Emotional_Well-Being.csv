@@ -1,4 +1,4 @@
-User_ID,Age,Gender,Platform,Daily_Usage_Time (minutes),Late_Night_Usage,Posts_Per_Day,Likes_Received_Per_Day,Comments_Received_Per_Day,Messages_Sent_Per_Day,Notifications_per_Day,Dominant_Emotion
+User_ID,Age,Gender,Platform,Daily_Usage_Time (minutes),Late_Night_Usage (minutes),Posts_Per_Day,Likes_Received_Per_Day,Comments_Received_Per_Day,Messages_Sent_Per_Day,Notifications_per_Day,Dominant_Emotion
 1,25,Female,Instagram,120,35,3,45,10,12,40,Happiness
 2,30,,Twitter,90,70,5,20,25,30,239,Anger
 3,22,Male,Facebook,60,30,2,15,5,,110,Neutral
@@ -999,3 +999,4 @@ User_ID,Age,Gender,Platform,Daily_Usage_Time (minutes),Late_Night_Usage,Posts_Pe
 998,35,Male,Whatsapp,110,110,3,50,25,25,79,Happiness
 999,28,Male,Telegram,60,33,2,,8,18,228,Anger
 1000,27,Female,Snapchat,120,103,4,,18,22,126,Neutral
+
